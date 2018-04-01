@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "876457331034",
+    "firebase_url": "https://galuh1202150076modul6-5a48a.firebaseio.com",
+    "project_id": "galuh1202150076modul6-5a48a",
+    "storage_bucket": "galuh1202150076modul6-5a48a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876457331034:android:ea71c7cd64d19b4e",
+        "android_client_info": {
+          "package_name": "com.example.galuhwisnupambayun.galuh_1202150076_studycase6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876457331034-mtoml1b8b093qb73i0ap6mjle1iogb1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpTLjWVcc9Oc1IItqsDTtkKZIIGi0sSO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
